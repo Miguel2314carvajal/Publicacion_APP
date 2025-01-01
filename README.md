@@ -41,4 +41,11 @@ Para finalizar tenemos el paso 4 donde tenemos que revisar que todo esté bien p
 Una vez enviado solo quedaría esperar a que se suba la aplicación a la Appstore :)
 
 ![diesinueve](https://github.com/user-attachments/assets/152c29d4-4292-4e1c-a44c-86146ccbfcc0)
-![veinte](https://github.com/user-attachments/assets/7e327aaa-bdd5-4ca2-87d8-2ff118304318). Quiero que este readme lo hagas mas bonito que se vea mejor presentado
+![veinte](https://github.com/user-attachments/assets/7e327aaa-bdd5-4ca2-87d8-2ff118304318).
+
+Despues de la revision la aplicacion ya se encontraria en amazon appstore con el siguiente link: https://www.amazon.com/Amazon-IP-Pokemon/dp/B0DRN8QXJK/ref=sr_1_1?crid=RV1EQQ4NXOHI&dib=eyJ2IjoiMSJ9.D5V4yaIlSQSvucK8-AK0y1vy1k6NILSC5JZxLHiwqZs04uWvn5C6f2H7kpHulYBfoUgr6ELNsFpYmYD9jlFiK7hPCiZa3odrH-etzktuwHU.aYKhQu0wDS8ydhyi4boL9GwOx6vZfOyxriSPjFWIjFU&dib_tag=se&keywords=IP-Pokemon&qid=1735761140&sprefix=ip-pokemon%2Caps%2C183&sr=8-1
+
+![image](https://github.com/user-attachments/assets/d34e6f9a-080e-40f1-87f5-94ace0811526)
+
+![WhatsApp Image 2025-01-01 at 2 57 20 PM](https://github.com/user-attachments/assets/c080c425-9b29-4961-b463-d6a28198e5a3)
+
